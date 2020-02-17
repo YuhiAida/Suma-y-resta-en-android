@@ -5,6 +5,8 @@
     <string name="editText2">Ingresa el segundo valor</string>
     <string name="radioButton">Sumar</string>
     <string name="radioButton2">Restar</string>
+    <string name="radioButton3">Multiplicar</string>
+    <string name="radioButton4">Dividir</string>
     <string name="button">Calcular</string>
     <string name="textView">Resultado</string>
 </resources>
