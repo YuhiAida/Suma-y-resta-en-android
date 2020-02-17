@@ -1,3 +1,10 @@
 <resources>
+    <string name="titulo">Hola!</string>
     <string name="app_name">App_RadioButton</string>
+    <string name="ediText">Ingresa el primer valor</string>
+    <string name="editText2">Ingresa el segundo valor</string>
+    <string name="radioButton">Sumar</string>
+    <string name="radioButton2">Restar</string>
+    <string name="button">Calcular</string>
+    <string name="textView">Resultado</string>
 </resources>
